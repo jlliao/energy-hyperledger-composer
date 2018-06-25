@@ -1,0 +1,4 @@
+
+---
+  command: node app.js
+  memory: 128M

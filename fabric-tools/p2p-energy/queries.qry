@@ -1,0 +1,17 @@
+query selectProsumers {
+  description: "Select all prosumers"
+  statement:
+      SELECT sap.energy.Prosumer
+}
+
+query selectCoins {
+  description: "Select all coin assets"
+  statement:
+      SELECT sap.energy.Coins
+}
+
+query selectEnergy {
+  description: "Select all energy assets"
+  statement:
+      SELECT sap.energy.Energy
+}

@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    padding-left: 72px;
+    padding-right: 72px;
+}
+
+.inlineInput {    
+    display: inline;
+    max-width: 8.00rem;    
+}
+
+.RR {
+    text-align: left;
+}
+
+
+
+
