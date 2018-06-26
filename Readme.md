@@ -4,7 +4,7 @@ A key application of Blockchain being currently explored is a Decentralized Ener
 
 In this code pattern, we will create such a Blockchain application using Hyperledger Composer. The network consists of Residents, Banks and Utility Companies. Prosumers can exchange coins for energy among each other.  The application assumes a pre-paid system where transactions occur after the energy is consumed and the values are updated. 
 
-This code pattern is for me to look to start building Blockchain applications with Hyperledger Composer. When I have completed this code pattern, I understand how to:
+This code pattern is for me to look to start building Blockchain applications with Hyperledger Composer during my internship in SAP. When I have completed this code pattern, I understand how to:
 
 * Create business network using Hyperledge Composer and recording transactions on Blockchain ledger
 * Deploying the networking to an instance of Hyperledger Fabric
